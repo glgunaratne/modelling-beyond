@@ -3,14 +3,15 @@ title: Home
 layout: home
 ---
 
-# Modelling Beyond 🌊📊
+# Modelling & Beyond 🌊📊
 
 Welcome! I'm **Gayan Gunaratne**, a coastal and ocean modeller sharing practical knowledge on:
 
-- Hydrodynamic and wave modelling (SWAN, Delft3D, FVCOM)  
-- Sediment transport and water quality  
-- Scientific computing and Python workflows  
-- Data analysis and model calibration  
+- Hydrodynamic and ecosystem modelling 
+- Sediment transport and water quality modelling
+- Aquaculture and discharge modeling
+- Scientific computing and Python workflows 
+- Data analysis and cloud computing  
 - Applied research and reproducible modelling  
 
 This site is built as a living notebook — part blog, part tutorial hub, part research archive.
@@ -49,17 +50,15 @@ Applied examples from coastal and marine systems.
 
 ## 👋 About Me
 
-I'm a professional modeller working at the intersection of **oceanography, numerical modelling, and data science**.  
+I'm a professional modeller working at the intersection of **hydrodynamics, ecohydrology, numerical modelling, and data science**.  
 My focus is on translating complex physical processes into practical, decision-support modelling tools.
-
-👉 Learn more: [About Me](/modelling-beyond/about/)
 
 ---
 
-## 🔗 Useful Links
+## 🔗 Find me
 
-- GitHub Repository: https://github.com/glgunaratne  
-- Project Code: https://github.com/glgunaratne/modelling-beyond  
+- GitHub: https://github.com/glgunaratne  
+- LinkedIn: https://au.linkedin.com/in/gayan-gunaratne-45313219  
 
 ---
 
