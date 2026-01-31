@@ -5,8 +5,9 @@ theme: just-the-docs
 # Enable sidebar
 nav_enabled: true
 
-# Your site URL
-url: https://glgunaratne.github.io/modelling-beyond
+# GitHub Pages base url
+url: https://glgunaratne.github.io
+baseurl: "/modelling-beyond"  # <-- important for repo pages
 
 # Links in the top-right corner (optional)
 aux_links:

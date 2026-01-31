@@ -8,5 +8,8 @@ nav_order: 2
 
 ## Direct Links to Key Posts
 
-- [ABCD Example Post](/modelling-beyond/2026/01/31/abcd-example-post)
-- [XYZ Example Post](/modelling-beyond/2026/01/31/xyz-example-post)
+{% assign abc_post = site.posts | where: "title", "ABCD Example Post" | first %}
+{% assign xyz_post = site.posts | where: "title", "XYZ Example Post" | first %}
+
+- [{{ abc_post.title }}]({{ abc_post.url | prepend: site.baseurl }})
+- [{{ xyz_post.title }}]({{ xyz_post.url | prepend: site.baseurl }})
