@@ -16,5 +16,5 @@ nav_order: 2   # This sets the sidebar order
 
 ## Direct Links to Key Posts
 
-- [ABCD Post]({{ site.baseurl }}/_posts/abcd.md)  
+- [ABCD Post]({{ site.baseurl }}/_posts/abc.md)  
 - [XYZ Post]({{ site.baseurl }}/_posts/xyz.md)

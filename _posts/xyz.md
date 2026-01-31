@@ -1,11 +1,8 @@
 ---
-title: Blog
-layout: home
-nav_order: 2
+layout: post
+title: "ABCD Example Post"
+date: 2026-01-31
+categories: blog
 ---
 
-# Blog Posts
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%b %-d, %Y" }}
-{% endfor %}
+# rareareababew

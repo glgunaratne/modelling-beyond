@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Filter Explained"
+title: "ABCD Example Post"
 date: 2026-01-31
-categories: modelling
+categories: blog
 ---
+# ghmdyjdy 
