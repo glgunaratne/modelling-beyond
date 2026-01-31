@@ -1,9 +1,22 @@
 title: Modelling & Beyond
-description: All amout Environmenta Modelling and other stuff
+description: All about Environmental Modelling and other stuff
 theme: just-the-docs
 
+# Enable sidebar
+nav_enabled: true
+
+# Your site URL
 url: https://glgunaratne.github.io/modelling-beyond
 
-aux_links: # remove if you don't want this link to appear on your pages
+# Links in the top-right corner (optional)
+aux_links:
   Template Repository: https://glgunaratne.github.io/modelling-beyond
 
+# Sidebar navigation order
+# Use nav_order in each page to control order
+# Home: nav_order 1
+# Blog: nav_order 2
+# About Me: nav_order 3
+
+# Optional: make posts show up in the Blog page
+# No need to manually add posts to sidebar unless you want them listed individually
