@@ -7,3 +7,5 @@ url: https://glgunaratne.github.io/modelling-beyond
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://glgunaratne.github.io/modelling-beyond
 
+# Enable sidebar nav
+nav_enabled: true

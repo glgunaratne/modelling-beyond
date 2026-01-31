@@ -36,8 +36,8 @@ Applied examples from coastal and marine systems.
 
 ## 📝 Latest Posts
 
-{% for post in site.posts limit:5 %}
-### 📌 [{{ post.title }}]({{ post.url }})
+See all posts in the **[Blog](/modelling-beyond/blog/)** section.
+
 
 {{ post.excerpt | strip_html | truncate: 160 }}
 
