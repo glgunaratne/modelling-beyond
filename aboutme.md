@@ -1,6 +1,7 @@
 ---
 title: About me
 layout: home
+nav_order: 3
 ---
 
 # 👋 About Me

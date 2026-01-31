@@ -16,10 +16,10 @@ nav_order: 2   # This sets the sidebar order
 
 ## Direct Links to Key Posts
 
-{% assign abc_post = site.posts | where: "title", "ABC Example Post" | first %}
+{% assign abc_post = site.posts | where: "title", "ABCD Example Post" | first %}
 {% assign xyz_post = site.posts | where: "title", "XYZ Example Post" | first %}
 
-- [ABC Example Post]({{ abc_post.url }})
+- [ABCD Example Post]({{ abc_post.url }})
 - [XYZ Example Post]({{ xyz_post.url }})
 
 
