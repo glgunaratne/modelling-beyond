@@ -6,7 +6,7 @@ nav_order: 1
 
 # Modelling & Beyond 🌊📊
 
-Welcome! I'm **Gayan Gunaratne**, a coastal and ocean modeller sharing practical knowledge on:
+Welcome! I'm **Gayan Gunaratne**, an environmnetal modeller sharing practical knowledge on:
 
 - Hydrodynamic and ecosystem modelling 
 - Sediment transport and water quality modelling
@@ -35,10 +35,5 @@ Applied examples from coastal and marine systems.
 
 ---
 
-## 📝 Latest Posts
-
-See all posts in the **[Blog](/modelling-beyond/blog/)** section.
-
----
 
 > ⚡ This site is continuously evolving. New content is added as I experiment, learn, and build.
